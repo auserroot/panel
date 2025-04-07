@@ -28,12 +28,20 @@ TLS port: You need to use the port by ticking the box, the default is port 443
 ROUTING RULES:Bypass xxx refers to xxx does not go through a proxy (direct connection) | Block xxx means that xxx is blocked (unreachable)
 
 Bypass LAN: bypasses the local area network
+
 Block Ads: Blocks ad URLs
+
 Bypass Iran: Bypass Iran
+
 Block Porn: Blocks color websites
+
 Bypass China: Bypass Chinese mainland
+
 Block QUIC: shields the QUIC protocol
+
 Bypass Russia: Bypass Russia
+
 CUSTOM RULES: In addition to the preset rules above, you can customize some IP addresses/websites that require direct connection (Bypass) and Block (Block) here.
-4. Save the settings
+
+Save the settings
 CLICK APPLY SETTINGS TO SAVE THE BPB PANEL CONFIGURATION
